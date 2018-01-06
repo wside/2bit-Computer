@@ -1,4 +1,4 @@
-// Matt Ferreria, Wendy Ide, Izzie Rong
+// Matt Ferreria, Wendy Ide
 //Feburary 24, 2016
 //Gate level abstraction
 
